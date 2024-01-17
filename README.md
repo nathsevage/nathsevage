@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathsevage
 
-- 🌱 I’m currently learning JavaScript, CSS and HTML
+- 🌱 I’m currently learning Reatc, JavaScript, CSS and HTML
 
 - 📫 nathsevage@gmail.com
 
